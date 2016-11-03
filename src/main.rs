@@ -1,4 +1,3 @@
-extern crate openssl_sys;
 extern crate rtmp_sys;
 
 #[cfg(any(windows))]
