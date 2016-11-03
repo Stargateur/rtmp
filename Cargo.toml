@@ -6,3 +6,4 @@ build = "build.rs"
 
 [dependencies]
 rtmp-sys = { git = "https://github.com/Stargateur/rtmp-sys.git" }
+openssl-sys = "0.7"
